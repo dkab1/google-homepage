@@ -39,6 +39,7 @@ body{
     border: 1px solid #4285f4;
     background: -moz-linear-gradient(top,#4387fd,#4683ea);
     font-size:13px;
+    z-index:9999999;
 }
 .main_body{
     display:flex;
