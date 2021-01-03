@@ -47,10 +47,12 @@ body{
     align-items:center;
     justify-content:center;
     height: 387px;
+ 
 }
 #logo{
     height:72px;
     width: 212.867px;
+    margin-bottom: 20px;
 }
 .searchbox{
     display:flex;
@@ -140,6 +142,9 @@ a:visited{
 p{
     padding-left:10px;
     padding-right:10px;
+}
+.page{
+    overflow:hidden;
 }
 
 
